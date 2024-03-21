@@ -1,4 +1,4 @@
-# Infinite Hack
+ # Infinite Hack
 Hello 👋, Have you always wanted to get any item in [Infinite Craft](https://neal.fun/infinite-craft/)? If yes, you have come to the right place!
 
 ## Infinite Craft Helper
