@@ -5,9 +5,9 @@ Hello 👋, Have you always wanted to get any item in [Infinite Craft](https://n
 
 First of all, you need to install Infinite Craft Helper.
 Install [Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag),
-![]()
+![](https://wooberfox.github.io/InfiniteHack/readme/Screenshot_2.png)
 And install the [script](https://greasyfork.org/en/scripts/488667-infinite-craft-helper).
-![]()
+![](https://wooberfox.github.io/InfiniteHack/readme/Screenshot_2.png)
 Reload the pages to allow access to a third-party resource.
 ![]()
 Ready.
